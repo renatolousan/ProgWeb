@@ -26,6 +26,6 @@ function func(){
 }
 
 window.onload = function(){
-    setInterval(func, 1000/10);
+    setInterval(func, 1000/30);
 }
 
