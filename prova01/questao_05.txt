@@ -1,0 +1,179 @@
+renatolousan-MBP:PW renatolousan$ git log
+commit d4cda0ae57db97da881fe1fe08f8a1cebd5b0d14 (HEAD -> master, origin/master)
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Apr 25 08:53:50 2018 -0400
+
+    questoes 1, 2 e 3
+
+commit b4e58e88ee5920963b745a079564086d9007a9f1
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Apr 25 08:04:07 2018 -0400
+
+    mudanças antes da prova
+
+commit b7e8b7d3977a4846a6c4dfe39bf570d5d0167517
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Apr 16 08:52:33 2018 -0400
+
+    JS3 feito
+
+commit ee3bcd9f382d2acfa680531504edccbf47641b17
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Sat Apr 14 15:16:42 2018 -0400
+
+    JS2 pronto
+
+commit dbdbff8d97d4411af9400ba7f6a17d517deebe5d
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Apr 9 17:07:53 2018 -0400
+
+    Exercícios feitos
+
+commit 332ff8fad0d799294db7902a09e488374f435d2e
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 28 09:36:40 2018 -0400
+
+    CSS1 e CSS2 feitos
+
+commit 1ad1ee2d537acef91365ace08ded791db2713af5
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 09:34:24 2018 -0400
+
+    update
+
+commit 6e5ae66850c193142ce042b09d589f37d44f5ce0
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 09:20:32 2018 -0400
+
+    update readme
+
+commit dd668a4fdd0280765cb0712e43eb77be5d40d035
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 09:10:09 2018 -0400
+
+    folder changes
+
+commit 0bdfac8a60504daaa89f9474537d9b0b79d16d44
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 08:57:50 2018 -0400
+
+    folder changes
+
+commit 3c607cf318de22f0942502b191513913474ed820
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 08:32:30 2018 -0400
+
+    update readme
+
+commit a30285dabc80bbc83f33943ec0c73be89aad9388
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Mon Mar 19 08:20:41 2018 -0400
+
+    update readme
+
+commit 9e29b882f229bd217613511443327432af60cd3e
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 14 09:42:05 2018 -0400
+
+    gitignore modificado
+
+commit 2f45450b1914ad041b40f73809a0ccaf289aae0e
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 14 09:29:45 2018 -0400
+
+    .vscode removido
+
+commit 11062e9a9e40b3ec79e7ff1065647e417878e22a
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Thu Mar 8 00:42:26 2018 -0400
+
+    mudanças na pagina
+
+commit ac4c861f294f975489983f13c03e4bd257c01f58
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 23:08:39 2018 -0400
+
+    Mudanças no layout
+
+commit 99ee121a56f8729525c1b63c6f29729fc844292c
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 22:46:57 2018 -0400
+
+    git ignore deletado
+
+commit 6da762ed9b52294b57e546f096468459b6456327
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 22:36:50 2018 -0400
+
+    removendo DS_Store
+
+commit 983af8166b6fd81a299b176fb56754bad929887a
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 22:26:12 2018 -0400
+
+    DS_Store banido (de vez(?))
+
+commit 1dc0ab01e603f6850836a4b8fba7e40932e8a308
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 22:24:37 2018 -0400
+
+    folders change
+
+commit 41f650806e3edd080bc5209ce22c88913ca5f5d5
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 22:18:28 2018 -0400
+
+    .DS_store banido!
+
+commit 5d167ded685968a6c43f02d673d3e5b91075bdc7
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 15:06:00 2018 -0400
+
+    Mudanças na página
+
+commit a8d0297ea75dc36e9b36426ffe0d3c9bb45d7e58
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:53:27 2018 -0400
+
+    update readme
+
+commit cbd0ab717e4a983cde2b7f94d67ca1c9c25ac0ab
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:35:46 2018 -0400
+
+    Primeira pagina
+
+commit a6ccd2992fbbc970a47611b74a6467b5d9e675e7
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:32:58 2018 -0400
+
+    commit inicial (4
+
+commit 837b01936c156f8f7a45c6bfce3613903ba31b04
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:27:26 2018 -0400
+
+    commit inicial (3)
+
+commit 9fbca3d52e6138b05d60175b05465e44931835bc
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:26:34 2018 -0400
+
+    commit inicial (2)
+
+commit a18718434649e1e44ed634dd63704ced8d3a101d
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:19:49 2018 -0400
+
+    commit inicial
+
+commit 72b2e9c9a244fd64b9f6de80459ce09f059931cc
+Author: Renato Lousan da Silva <renatolousan@hotmail.com>
+Date:   Wed Mar 7 14:17:48 2018 -0400
+
+    first commit
+(END)
+
+a) O diretório de trabalho é um espaço na máquina do desenvolvedor que está trabalhando em um código novo ou puxado de alguma branch. Nesse diretório, ele pode modificar e adicionar novos arquivos para adicionar ao working tree (git add) e depois gerar um commit com uma mensagem, que será adicionado a uma branch específica
+
+b) Um repositório local está localizado somente na máquina do desenvolvedor, já um repositório remoto está em um servidor separado e cada desenvolvedor tem uma cópia em sua máquina, permitindo pessoas trabalhando em diferentes versões
