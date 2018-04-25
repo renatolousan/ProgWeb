@@ -8,8 +8,7 @@ function someFn(numero){
                 return function(){
                     numero = numero + 5;
                     console.log("Terceira chamada " + numero);
-                }
-            
+                }      
         }
     }
 }
