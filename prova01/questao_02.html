@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="titulo">Instituto de Computação</p>
+    <button id="botao">Adicionar Estilos</button>
+    <button id="botao1">Limpar Estilo</button>
+</body>
+<script>
+    var tit = document.getElementById("titulo");
+    var botao = document.getElementById("botao");
+    var botao1 = document.getElementById("botao1");
+
+    botao.onclick = function () {
+        tit.style.color = "red";
+        tit.style.backgroundColor = "grey";
+    }
+
+    botao1.onclick = function () {
+        tit.style.color = "black";
+        tit.style.backgroundColor = "white";
+    }
+</script>
+
+</html>

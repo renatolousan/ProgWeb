@@ -1,0 +1,10 @@
+Erros:
+
+1. Linha 02 e 24: O escopo da tag <body> está ocupando o <head> e quase todo o código da página. O correto é ter um escopo separado para a tag <head> e outro para a tag <body>
+
+2. Linha 04: O comentário é inválido, os comentários em HTML são feitos dessa maneira: <!-- comment -->
+
+3. Linha 13: A tag <span style...> está no meio do parágrafo e sem fechamento apropriado. Para atingir o objetivo da tag (colocar o texto em negrito), deve-se envolver o texto desejado nas tags <b> e </b>
+
+4. Linha 19 e 22: Na tag <style>, há um código CSS e não um JavaScript, como requerido pela tag <style>. Para o código funcionar, deve-se trocar a tag <style> pela tag <script>.
+
