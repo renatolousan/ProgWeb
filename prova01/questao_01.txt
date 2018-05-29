@@ -1,3 +1,6 @@
+Todos os erros foram identificados corretamente.
+Nota: 2.0
+
 Erros:
 
 1. Linha 02 e 24: O escopo da tag <body> está ocupando o <head> e quase todo o código da página. O correto é ter um escopo separado para a tag <head> e outro para a tag <body>
