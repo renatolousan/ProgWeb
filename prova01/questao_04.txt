@@ -1,2 +1,5 @@
+Conceito de closure e explicação do código incorretos.
+Nota: 0.5
+
 Closure é um recurso do JavaScript onde há a possibilidade de controlar o escopo de variáveis locais usando retorno de funções.
 No caso do código, temos um exemplo de closure onde foo() retorna uma função anônima, controlando o escopo das variáveis x, y e baz.

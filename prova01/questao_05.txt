@@ -1,3 +1,6 @@
+Logs e conceitos reportados corretamente.
+Nota: 2.0
+
 renatolousan-MBP:PW renatolousan$ git log
 commit d4cda0ae57db97da881fe1fe08f8a1cebd5b0d14 (HEAD -> master, origin/master)
 Author: Renato Lousan da Silva <renatolousan@hotmail.com>
@@ -177,3 +180,5 @@ Date:   Wed Mar 7 14:17:48 2018 -0400
 a) O diretório de trabalho é um espaço na máquina do desenvolvedor que está trabalhando em um código novo ou puxado de alguma branch. Nesse diretório, ele pode modificar e adicionar novos arquivos para adicionar ao working tree (git add) e depois gerar um commit com uma mensagem, que será adicionado a uma branch específica
 
 b) Um repositório local está localizado somente na máquina do desenvolvedor, já um repositório remoto está em um servidor separado e cada desenvolvedor tem uma cópia em sua máquina, permitindo pessoas trabalhando em diferentes versões
+
+
