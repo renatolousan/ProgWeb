@@ -23,7 +23,10 @@ $this->params['breadcrumbs'][] = $this->title;
 
                 <?= $form->field($model, 'email') ?>
 
+                <?= $form->field($model, 'id_curso')->dropDownList($arraycursos,['prompt'=>'Selecione o curso']) ?>
+
                 <?= $form->field($model, 'password')->passwordInput() ?>
+
 
                 <div class="form-group">
                     <?= Html::submitButton('Signup', ['class' => 'btn btn-primary', 'name' => 'signup-button']) ?>

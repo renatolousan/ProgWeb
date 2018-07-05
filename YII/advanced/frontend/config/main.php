@@ -46,4 +46,5 @@ return [
         */
     ],
     'params' => $params,
+    'name' => 'SkiFree do Renato'
 ];
